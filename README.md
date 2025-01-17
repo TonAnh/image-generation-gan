@@ -17,7 +17,8 @@ Generative Adversarial Network, or GAN, is a deep learning architecture for trai
 
 These sub-models will compete against each other to improve themselves, resulting in a good Generator to generate images.
 
-![image](images\GAN.png)
+![image](https://github.com/TonAnh/image-generation-gan/blob/main/images/GAN.png)
+Image Source: https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans/
 
 - `VanillaGAN`: The simplest type of GAN. The Generator and Discriminator are simple basic MLP.
 
