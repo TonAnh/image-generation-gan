@@ -19,7 +19,7 @@ These sub-models will compete against each other to improve themselves, resultin
 
 ![image](https://github.com/TonAnh/image-generation-gan/blob/main/images/GAN.png)
 
-Image Source: https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans/
+Image Source: [Machine Learning Mastery](https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans/)
 
 - `VanillaGAN`: The simplest type of GAN. The Generator and Discriminator are simple basic MLP.
 
